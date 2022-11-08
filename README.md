@@ -5,20 +5,21 @@
 
 ### **<div align="center">I'm Enes, a junior game / software developer 👨‍💻 A passionate junior developer from Turkey👾</div>**  
   
-
-- 📓I am currently studying at Pamukkale University  
+<ins><div align="center"> 📓I am currently studying at Pamukkale University   </div></ins>  
   
 
-- 🌱 I’m currently learning Flutter, Java, Anguler  
+<ins><div align="center"> 🌱 I’m currently learning Flutter, Java, Anguler  </div></ins>  
   
 
-- ❓ Ask me about Java,  C#,  Entity Framework, .Net, HTML, CSS  
+<ins><div align="center">❓ Ask me about Java,  C#,  Entity Framework, .Net, HTML, CSS  </div></ins>  
   
 
-- ⚡Fun fact: Think twice, one code  
+<ins><div align="center">⚡ Fun fact: Think twice, one code </div></ins>  
   
 
 <br/>  
+
+
 
 
 ## My Skill Set  
