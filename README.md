@@ -3,15 +3,15 @@
 </div>  
   
 
-### **<div align="center">I'm Enes, a junior game / software developer 👨‍💻 A passionate junior developer from Turkey👾</div>**  
+### **<div align="center">I'm Enes, a junior software / game developer 👨‍💻 A passionate junior developer from Turkey👾</div>**  
   
 <ins><div align="center"> 📓I am currently studying at Pamukkale University   </div></ins>  
   
 
-<ins><div align="center"> 🌱 I’m currently learning Flutter, Java, Anguler  </div></ins>  
+<ins><div align="center"> 🌱 I’m currently learning Flutter, Java, Angular  </div></ins>  
   
 
-<ins><div align="center">❓ Ask me about Java,  C#,  Entity Framework, .Net, HTML, CSS  </div></ins>  
+<ins><div align="center">❓ Ask me about C#,  Entity Framework, .Net </div></ins>  
   
 
 <ins><div align="center">⚡ Fun fact: Think twice, one code </div></ins>  
