@@ -8,10 +8,10 @@
 <ins><div align="center"> 📓I am currently studying at Pamukkale University   </div></ins>  
   
 
-<ins><div align="center"> 🌱 I’m currently learning Flutter, Java, Angular  </div></ins>  
+<ins><div align="center"> 🌱 I’m currently learning Flutter, Java, Spring  </div></ins>  
   
 
-<ins><div align="center">❓ Ask me about C#,  Entity Framework, .Net </div></ins>  
+<ins><div align="center">❓ Ask me about C#,  Entity Framework, .Net, Angular </div></ins>  
   
 
 <ins><div align="center">⚡ Fun fact: Think twice, one code </div></ins>  
