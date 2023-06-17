@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Enes, a junior software / game developer 👨‍💻 A passionate junior developer from Turkey👾</div>**  
+### **<div align="center">I'm Enes, a junior software / junior SysAdmin 👨‍💻 A passionate junior developer from Turkey👾</div>**  
   
 <ins><div align="center"> 📓I am currently studying at Pamukkale University   </div></ins>  
   
